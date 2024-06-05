@@ -4,6 +4,6 @@
 
 
 
-<h2>About me:</h2>
-<h3>🌱 I'm studying university programming</h3>
-<h3>✉ How to reach me: maximofcallejas@gmail.com</h3>
+<h3>About me:</h3>
+<h4>🌱 I'm studying university programming</h4>
+<h4>✉ How to reach me: maximofcallejas@gmail.com</h4>
