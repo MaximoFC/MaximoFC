@@ -10,4 +10,4 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 <h1>📊 GitHub Analytics</h1>
-https://github-readme-stats.vercel.app/api/top-langs/?username=MaximoFC&theme=blue-green
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximoFC&theme=blue-green)
