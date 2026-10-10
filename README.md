@@ -20,8 +20,6 @@ Software Developer and **University Technician in Programming**, currently pursu
 
 I build reliable web applications, REST APIs, database-driven systems and maintainable software. My main interests are backend development, software architecture and automation — well-structured applications that solve real-world problems.
 
-> *Clean code, thoughtful architecture, and simplicity over unnecessary complexity.*
-
 <br/>
 
 ### `02` — Technical Focus
