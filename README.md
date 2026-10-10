@@ -1,17 +1,62 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/47f02d5b-de72-44f5-aa5b-d6276b5c706f">
-</p>
+<div align="center">
 
-# 👨🏻‍💻 About me
-### 🎓 I’m a student at [Universidad Tecnológica Nacional](https://frt.utn.edu.ar/)
-### 🔭 I'm currently working on **MongoDB - Express - React - Node**
-### 🌱 I'm currently learning **AWS**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=14&duration=1&pause=99999&color=D6C3A1&center=true&vCenter=true&width=500&lines=SOFTWARE+DEVELOPER+%C2%B7+FULL+STACK+%C2%B7+BACKEND" alt="role" />
 
-# 🛠 Tech Stack
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![jws](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=white) ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![next](https://img.shields.io/badge/next.js-00000F?style=for-the-badge&logo=next.js&logoColor=white) 
+# Máximo Callejas
 
-# 📊 GitHub Analytics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximoFC&theme=shadow_blue)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3500&pause=1200&color=F5F5F5&center=true&vCenter=true&width=600&lines=Building+reliable+web+applications.;REST+APIs+%26+database-driven+systems.;Clean+code.+Thoughtful+architecture." alt="typing" />
 
-# 🤝🏻 Connect With Me
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maximofcallejas@gmail.com) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximofcallejas)
+![Portfolio](https://img.shields.io/badge/Portfolio(soon)-050505?style=for-the-badge&logo=vercel&logoColor=D6C3A1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=D6C3A1)](https://www.linkedin.com/in/maximofcallejas)
+[![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=D6C3A1)](mailto:maximofcallejas@gmail.com)
+
+</div>
+
+<br/>
+
+### `01` — About
+
+Software Developer and **University Technician in Programming**, currently pursuing a **Diploma in Applied Artificial Intelligence**.
+
+I build reliable web applications, REST APIs, database-driven systems and maintainable software. My main interests are backend development, software architecture and automation — well-structured applications that solve real-world problems.
+
+> *Clean code, thoughtful architecture, and simplicity over unnecessary complexity.*
+
+<br/>
+
+### `02` — Technical Focus
+
+| | |
+|:--|:--|
+| **Backend** | Node.js · Express.js · REST APIs · Authentication |
+| **Frontend** | React · Next.js · TypeScript · JavaScript |
+| **Databases** | PostgreSQL · MongoDB · MySQL |
+| **Tools & Infra** | Git · Docker · Vercel · Railway |
+| **Exploring** | Applied AI · Cloud infrastructure · Scalable architecture |
+
+<br/>
+
+### `03` — Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-050505?style=flat-square&logo=typescript&logoColor=D6C3A1)
+![JavaScript](https://img.shields.io/badge/JavaScript-050505?style=flat-square&logo=javascript&logoColor=D6C3A1)
+![Node.js](https://img.shields.io/badge/Node.js-050505?style=flat-square&logo=nodedotjs&logoColor=D6C3A1)
+![Express](https://img.shields.io/badge/Express-050505?style=flat-square&logo=express&logoColor=D6C3A1)
+![React](https://img.shields.io/badge/React-050505?style=flat-square&logo=react&logoColor=D6C3A1)
+![Next.js](https://img.shields.io/badge/Next.js-050505?style=flat-square&logo=nextdotjs&logoColor=D6C3A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050505?style=flat-square&logo=postgresql&logoColor=D6C3A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-050505?style=flat-square&logo=mongodb&logoColor=D6C3A1)
+![MySQL](https://img.shields.io/badge/MySQL-050505?style=flat-square&logo=mysql&logoColor=D6C3A1)
+![Docker](https://img.shields.io/badge/Docker-050505?style=flat-square&logo=docker&logoColor=D6C3A1)
+![Git](https://img.shields.io/badge/Git-050505?style=flat-square&logo=git&logoColor=D6C3A1)
+
+<br/>
+
+### `04` — GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MaximoFC&show_icons=true&hide_border=true&bg_color=050505&title_color=D6C3A1&text_color=F5F5F5&icon_color=D6C3A1&hide_rank=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximoFC&layout=compact&hide_border=true&bg_color=050505&title_color=D6C3A1&text_color=F5F5F5" />
+
+</div>
